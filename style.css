@@ -1,0 +1,71 @@
+#ejuno{
+    width: 200px;
+    height: 100px;
+}
+#ejdos{
+    margin: 20px;
+}
+#ejtres{
+    padding: 10px;
+}
+
+#ejcuatro{
+    border: 2px solid red;
+}
+#ejcinco{
+    width: 150px;
+    margin-right: 10px;
+}
+
+#ejseis{
+    border-width: 3px;
+}
+
+.ejsiete{
+    padding: 15px;
+}
+
+#ejocho{
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+#ejnueve{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#ejdiez{
+    width: 300px;
+    height: 200px;
+    padding: 25px;
+}
+
+#ejonce{
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#ejdoce{
+    margin-right: 15px;
+    padding: 10px;
+}
+
+#ejtrece{
+    max-width: 400px;
+    margin: 0px;
+}
+
+img{
+    border: 2px solid green;
+}
+
+#ejquince{
+    width: 120px;
+    margin-top: 10px;
+    padding: 5px;
+}
